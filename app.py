@@ -10,7 +10,7 @@ import numpy as np
 from typing import List, Tuple
 import os
 import io
-import plotly.graph_objects as go
+from plotly import graph_objects as go
 import pandas_datareader as web
 from fredapi import Fred
 from configparser import ConfigParser
