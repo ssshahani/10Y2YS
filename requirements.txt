@@ -7,4 +7,3 @@ scikit-learn
 pandas_datareader
 fredapi
 configparser
-distutils
