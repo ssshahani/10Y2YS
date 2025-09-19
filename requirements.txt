@@ -4,3 +4,6 @@ numpy
 matplotlib
 plotly
 scikit-learn
+pandas_datareader
+fredapi
+configparser
